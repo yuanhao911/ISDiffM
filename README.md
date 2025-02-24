@@ -42,10 +42,9 @@ The codebase has been tested with the following setup:
 ```
 ${POSE_ROOT}
 ├── dataset
-├── models
+├── model_only1_supervize.py
 ├── output
 ├── utils
-├── tools 
 ├── train.py
 ├── test.py
 ├── model.py

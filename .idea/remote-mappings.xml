@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://tandayi@10.60.144.43:722/home/tandayi/miniconda3/envs/edpose/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/tandayi/code/yh/zkp" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://tandayi@10.60.144.43:10500/mnt/sda/home/tandayi/miniconda3/envs/simcc/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/sda/home/tandayi/code/zkp-transformer4090" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://tandayi@100.84.41.120:722/mnt/ssd/home/tandayi/miniconda3/envs/edpose/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/ssd/home/tandayi/code/zkp/zkp_ddim-submit-20250223" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

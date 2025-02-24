@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c599027-3fd2-4486-ae7a-27b5d1ad4a9a" name="yh">
+        <fileTransfer accessType="SFTP" host="10.60.144.43" port="722" sshConfigId="8747e97c-90b4-4396-a267-68f2cb64aa72" sshConfig="tandayi@10.60.144.43:722 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="030b6d2d-493a-4084-b33b-2c3f901f7298" name="zkp-trans-4090">
+        <fileTransfer accessType="SFTP" host="10.60.144.43" port="722" sshConfigId="8747e97c-90b4-4396-a267-68f2cb64aa72" sshConfig="tandayi@10.60.144.43:722 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fcc3ef44-678d-4dae-b8ac-92ea6f31dea5" name="zkp-dual">
+        <fileTransfer accessType="SFTP" host="100.84.41.120" port="722" sshConfigId="b723d3fd-2d1f-425e-9979-afda6ba3af52" sshConfig="tandayi@100.84.41.120:722 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="298198f5-89ee-437f-a42a-2427e119d171" name="ne">
+        <fileTransfer accessType="SFTP" host="100.84.41.120" port="722" sshConfigId="85ce02cd-4ae1-4ed2-90b7-443a76f8abc0" sshConfig="tandayi@100.84.41.120:722 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

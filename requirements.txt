@@ -1,0 +1,5 @@
+numpy==1.26.1
+cython
+torch>=1.5.0
+torchvision>=0.6.0
+scipy

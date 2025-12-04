@@ -1,6 +1,6 @@
 # Diffusion Models Enable High-Fidelity Prediction of Fuel Cell Impedance Spectrum from Short Time-Domain Profiles
 
-![image-20250223142112693](https://github.com/yuanhao911/ISDiffM/blob/main/image/framework.png)
+![image-20250223142112693](https://github.com/yuanhao911/ISDiffM/blob/main/image/Framework.png)
 
 Hao Yuan, Dayi Tan, Zhihua Zhong, Jiangong Zhu, Pingwen Ming, Xuezhe Wei , Haifeng Dai† (†corresponding authors)
 

@@ -155,5 +155,5 @@ This project is licensed under the MIT License. For more details, see the LICENS
 ## Citation
 ```
 If you find it useful, please cite our paper:
-Hao Yuan, Dayi Tan, Zhihua Zhong, Jiangong Zhu, Pingwen Ming, Xuezhe Wei, Haifeng Dai. Diffusion Models Enable High-Fidelity Prediction of Fuel Cell Impedance Spectrum from Short Time-Domain Profiles, repository name, DOI identifier: xxxxx, 2026.
+Hao Yuan, Dayi Tan, Zhihua Zhong, Jiangong Zhu, Pingwen Ming, Xuezhe Wei, Haifeng Dai. Diffusion Models Enable High-Fidelity Prediction of Fuel Cell Impedance Spectrum from Short Time-Domain Profiles, DOI identifier: xxxxx, 2026.
 ```
